@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saksham Chaturvedi</h1>
+<h1 align="center">Hi, 👋 I'm Saksham Chaturvedi</h1>
 <h3 align="center">Computer Science student with my expertise in</h3>
 
 <img align="right" alt="coding"width="400"src="https://tse4.mm.bing.net/th?id=OIP.2rOl_UKfgQgxkhJKatuOSwHaD4&pid=Api&P=0&h=180>
