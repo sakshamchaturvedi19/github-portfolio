@@ -20,7 +20,7 @@ Software Engineer | Frontend Developer | Python Developer
 ### 📄 Resume
 <p align="center">
   <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-28a745?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download Resume" />
+    <img src="file:///C:/Users/saksham/Downloads/saksham_chaturvedi.pdf" alt="Download Resume" />
   </a>
 </p>
 
