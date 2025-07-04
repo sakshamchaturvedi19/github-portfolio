@@ -28,10 +28,10 @@ Software Engineer | Frontend Developer | Python Developer
 
 ### 📫 How to reach me:
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-sakshamchaturvedi19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/saksham-chaturvedi-672635202?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZadNHYs5T4mAil%2B88cDglg%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
